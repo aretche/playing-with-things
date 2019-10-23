@@ -4,6 +4,16 @@ Topics and interesting things explored/to explore
 
 ## Current
 
+#### Docker
+* BLOG [Gradle and Docker (multi-stage builds](https://codefresh.io/docs/docs/learn-by-example/java/gradle/)
+* BLOG [Building Java Docker images with Gradle and Docker multistage builds](http://paulbakker.io/java/docker-gradle-multistage/)
+* BLOG [Multi-Stage Docker example for Spring boot application](https://medium.com/@sairamkrish/docker-for-spring-boot-gradle-java-micro-service-done-the-right-way-2f46231dbc06)
+* BLOG [Caching gradle binaries in a Docker build when using the gradle wrapper](https://medium.com/@nieldw/caching-gradle-binaries-in-a-docker-build-when-using-the-gradle-wrapper-277c17e7dd22)
+
+#### Grails
+* GUIDE [Grails GORM Data Services](https://guides.grails.org/grails-gorm-data-services/guide/index.html)
+* PLUGIN [Grails Swagger Plugin](https://plugins.grails.org/plugin/ajay-kumar/swagger)  
+
 #### Grails
 * WEBINAR *Introduction to Grails 4: Upgrades and New Features* [video](https://www.youtube.com/watch?v=EVA_pIrjVdo)
 * TALK Gr8Conf 2018 *Automation strategies  for deploying Grails  from Dev to Prod* [video](https://www.youtube.com/watch?v=papccoNYkhQ) [slides](https://gingkoapp.com/automation-strategies-for-deploying-grails-from-dev-to-prod.html)
