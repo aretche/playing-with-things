@@ -40,8 +40,8 @@ Topics and interesting things explored/to explore
 
 ### 2019-10
 
-#### Docker
-REPO *My Grails 4 example application using Docker* [repo](https://github.com/aretche/grails4-docker-example-app) 
+#### Create Grails 4 app docker images
+* REPO *My Grails 4 example application using Docker* [repo](https://github.com/aretche/grails4-docker-example-app) 
 * BLOG [Gradle and Docker (multi-stage builds](https://codefresh.io/docs/docs/learn-by-example/java/gradle/)
 * BLOG [Building Java Docker images with Gradle and Docker multistage builds](http://paulbakker.io/java/docker-gradle-multistage/)
 * BLOG [Multi-Stage Docker example for Spring boot application](https://medium.com/@sairamkrish/docker-for-spring-boot-gradle-java-micro-service-done-the-right-way-2f46231dbc06)
