@@ -18,6 +18,11 @@ Topics and interesting things explored/to explore
 
 ## Pending
 
+### Twelve-Factor Apps
+* [The Twelve-Factor App](https://12factor.net/)
+* BLOG [Twelve-Factor Methodology in a Spring Boot Microservice](https://www.baeldung.com/spring-boot-12-factor)
+* BLOG [How I Use the Twelve-Factor App Methodology for Building SaaS Applications with Java & Scala](https://medium.com/hashmapinc/how-i-use-the-twelve-factor-app-methodology-for-building-saas-applications-with-java-scala-4cdb668cc908)
+
 ### Grails
 * WEBINAR *Database Migration with Grails 3* [video](https://www.youtube.com/watch?v=rNdfozn7NCs)
 
@@ -44,6 +49,9 @@ Topics and interesting things explored/to explore
 ## Done
 
 ### 2019-10
+
+### Grails JSON Views
+* UNDOCUMENTED *Showing empty and nulls in rendered GSON view/template* ```g.render(myObject, [renderNulls: true])```
 
 #### Create Grails 4 app docker images
 * REPO *My Grails 4 example application using Docker* [repo](https://github.com/aretche/grails4-docker-example-app) 
