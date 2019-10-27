@@ -22,6 +22,7 @@ Topics and interesting things explored/to explore
 * [The Twelve-Factor App](https://12factor.net/)
 * BLOG [Twelve-Factor Methodology in a Spring Boot Microservice](https://www.baeldung.com/spring-boot-12-factor)
 * BLOG [How I Use the Twelve-Factor App Methodology for Building SaaS Applications with Java & Scala](https://medium.com/hashmapinc/how-i-use-the-twelve-factor-app-methodology-for-building-saas-applications-with-java-scala-4cdb668cc908)
+* TUTORIAL [The 12 Factor App - Best Practices In Cloud Native Applications and Microservices](https://www.springboottutorial.com/12-factor-app-cloud-native-microservices-best-practices)
 
 ### Grails
 * WEBINAR *Database Migration with Grails 3* [video](https://www.youtube.com/watch?v=rNdfozn7NCs)
