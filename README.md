@@ -9,6 +9,9 @@ Topics and interesting things explored/to explore
 * TALK Gr8Conf 2018 *Automation strategies  for deploying Grails  from Dev to Prod* [video](https://www.youtube.com/watch?v=papccoNYkhQ) [slides](https://gingkoapp.com/automation-strategies-for-deploying-grails-from-dev-to-prod.html) 
 * PLUGIN [Grails Swagger Plugin](https://plugins.grails.org/plugin/ajay-kumar/swagger)
 
+#### DevOps
+* TALK DevNexus 2015: *Building a Continuous Delivery Pipeline with Gradle and Jenkins* [talk](https://www.youtube.com/watch?v=z4yVEKOP50g)
+
 ## Pending
 
 ### Twelve-Factor Apps
@@ -37,7 +40,7 @@ Topics and interesting things explored/to explore
 * TALK GR8Conf EU 2019 *Testing and Infrastructure* [slides](https://github.com/sparsick/infra-testing-talk/blob/gr8conf19/slides/2019.05%20-%20Gr8Conf-%20Testing%20and%20Infrastructure.pdf) [repo](https://github.com/sparsick/infra-testing-talk/tree/gr8conf19)
 * TALK GR8Conf EU 2019 *(Automated) Security Testing in a DevOps world* [slides](https://slides.com/kiview/securitytesting-general#/)
 * TALK Gr8Conf 2018: *From Zero to Continous Delivery - Concepts, Culture and Overview* [video](https://www.youtube.com/watch?v=KAo4YMtjMgg) 
-* TALK DevNexus 2015: *Building a Continuous Delivery Pipeline with Gradle and Jenkins* [talk](https://www.youtube.com/watch?v=z4yVEKOP50g)  
+  
 
 
 ## Done
