@@ -4,13 +4,6 @@ Topics and interesting things explored/to explore
 
 ## Current
 
-#### Grails GORM Data Services
-* TALK Gr8Conf 2018 *GORM Data Services* [video](https://www.youtube.com/watch?v=jPmXvHvJB_M)
-* GUIDE [Grails GORM Data Services](https://guides.grails.org/grails-gorm-data-services/guide/index.html)
-* IDEA ERROR [Grails GORM Class with @GrailsCompileStatic annotation shows in the static mapping closure table, version, autoTimestamp as unresolved symbol](https://youtrack.jetbrains.com/issue/IDEA-206196)
-* GUIDE [Grails Multi-datasource](http://guides.grails.org/grails-multi-datasource/guide/index.html)
-* BUG [Grails multiple Datasources "No Session found for current thread" exception when accessing secondary datasource](https://github.com/grails/grails-core/issues/10383#issuecomment-451925220)
-
 #### Grails  
 * WEBINAR *Introduction to Grails 4: Upgrades and New Features* [video](https://www.youtube.com/watch?v=EVA_pIrjVdo)
 * TALK Gr8Conf 2018 *Automation strategies  for deploying Grails  from Dev to Prod* [video](https://www.youtube.com/watch?v=papccoNYkhQ) [slides](https://gingkoapp.com/automation-strategies-for-deploying-grails-from-dev-to-prod.html) 
@@ -51,7 +44,14 @@ Topics and interesting things explored/to explore
 
 ### 2019-10
 
-### Grails JSON Views
+#### Grails GORM Data Services
+* TALK Gr8Conf 2018 *GORM Data Services* [video](https://www.youtube.com/watch?v=jPmXvHvJB_M)
+* GUIDE [Grails GORM Data Services](https://guides.grails.org/grails-gorm-data-services/guide/index.html)
+* IDEA ERROR [Grails GORM Class with @GrailsCompileStatic annotation shows in the static mapping closure table, version, autoTimestamp as unresolved symbol](https://youtrack.jetbrains.com/issue/IDEA-206196)
+* GUIDE [Grails Multi-datasource](http://guides.grails.org/grails-multi-datasource/guide/index.html)
+* BUG [Grails multiple Datasources "No Session found for current thread" exception when accessing secondary datasource](https://github.com/grails/grails-core/issues/10383#issuecomment-451925220)
+
+#### Grails JSON Views
 * UNDOCUMENTED *Showing empty and nulls in rendered GSON view/template* ```g.render(myObject, [renderNulls: true])```
 
 #### Create Grails 4 app docker images
