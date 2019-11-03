@@ -39,8 +39,7 @@ Topics and interesting things explored/to explore
 ### Devops
 * TALK GR8Conf EU 2019 *Testing and Infrastructure* [slides](https://github.com/sparsick/infra-testing-talk/blob/gr8conf19/slides/2019.05%20-%20Gr8Conf-%20Testing%20and%20Infrastructure.pdf) [repo](https://github.com/sparsick/infra-testing-talk/tree/gr8conf19)
 * TALK GR8Conf EU 2019 *(Automated) Security Testing in a DevOps world* [slides](https://slides.com/kiview/securitytesting-general#/)
-* TALK Gr8Conf 2018: *From Zero to Continous Delivery - Concepts, Culture and Overview* [video](https://www.youtube.com/watch?v=KAo4YMtjMgg)  
-* Videos [Gitlab CI/CD tutorial](https://www.youtube.com/playlist?list=PLaFCDlD-mVOlnL0f9rl3jyOHNdHU--vlJ)
+* TALK Gr8Conf 2018: *From Zero to Continous Delivery - Concepts, Culture and Overview* [video](https://www.youtube.com/watch?v=KAo4YMtjMgg) 
 
 ## Done
 
