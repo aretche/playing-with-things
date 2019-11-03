@@ -44,6 +44,11 @@ Topics and interesting things explored/to explore
 
 ## Done
 
+### 2019-11
+
+### Devops
+* Videos [Gitlab CI/CD tutorial](https://www.youtube.com/playlist?list=PLaFCDlD-mVOlnL0f9rl3jyOHNdHU--vlJ)
+
 ### 2019-10
 
 #### Grails GORM Data Services
