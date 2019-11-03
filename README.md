@@ -46,7 +46,7 @@ Topics and interesting things explored/to explore
 ### 2019-11
 
 ### Devops
-* Videos [Gitlab CI/CD tutorial](https://www.youtube.com/playlist?list=PLaFCDlD-mVOlnL0f9rl3jyOHNdHU--vlJ)
+* *Gitlab CI/CD tutorial* [videos](https://www.youtube.com/playlist?list=PLaFCDlD-mVOlnL0f9rl3jyOHNdHU--vlJ) [repo](https://gitlab.com/johandurancerdas/gitlab-cicd-tutorial/)
 
 ### 2019-10
 
