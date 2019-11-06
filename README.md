@@ -41,6 +41,10 @@ Topics and interesting things explored/to explore
 * TALK GR8Conf EU 2019 *(Automated) Security Testing in a DevOps world* [slides](https://slides.com/kiview/securitytesting-general#/)
 * TALK Gr8Conf 2018: *From Zero to Continous Delivery - Concepts, Culture and Overview* [video](https://www.youtube.com/watch?v=KAo4YMtjMgg) 
 
+### Nexus
+* [How to Use Gitlab-CI with Nexus](https://blog.sonatype.com/how-to-use-gitlab-ci-with-nexus)
+* PLUGIN [Nexus Repository Composer Plugin](https://github.com/sonatype-nexus-community/nexus-repository-composer)
+
 ## Done
 
 ### 2019-11
